@@ -98,11 +98,11 @@ pragma solidity ^0.6.6;
 // 0x6e1A19F235bE7ED8E3369eF73b196C07257494DE
 
 // SAND (SAND)
-// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform°Øs utility token.
+// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform‚Äôs utility token.
 // 0x3845badAde8e6dFF049820680d1F14bD3903a5d0
 
 // KuCoin Token (KCS)
-// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin°Øs decentralized financial services as well as the governance token of KuCoin Community.
+// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin‚Äôs decentralized financial services as well as the governance token of KuCoin Community.
 // 0xf34960d9d60be18cc1d5afc1a6f012a723a28811
 
 // Compound USD Coin (cUSDC)
@@ -138,7 +138,7 @@ pragma solidity ^0.6.6;
 // 0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
 
 // Quant (QNT)
-// Blockchain operating system that connects the world°Øs networks and facilitates the development of multi-chain applications.
+// Blockchain operating system that connects the world‚Äôs networks and facilitates the development of multi-chain applications.
 // 0x4a220e6096b25eadb88358cb44068a3248254675
 
 // Compound Dai (cDAI)
@@ -146,7 +146,7 @@ pragma solidity ^0.6.6;
 // 0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643
 
 // Paxos Gold (PAXG)
-// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink°Øs vaults.
+// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink‚Äôs vaults.
 // 0x45804880De22913dAFE09f4980848ECE6EcbAf78
 
 // Compound Ether (cETH)
@@ -247,7 +247,7 @@ pragma solidity ^0.6.6;
 // 0x6810e776880c02933d47db1b9fc05908e5386b96
 
 // MCO (MCO)
-// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world°Øs transition to cryptocurrency.
+// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world‚Äôs transition to cryptocurrency.
 // 0xb63b606ac810a52cca15e44bb630fd42d8d1d83d
 
 // Gemini dollar (GUSD)
@@ -368,7 +368,7 @@ pragma solidity ^0.6.6;
 // 0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25
 
 // Balancer (BAL)
-// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer°Øs formula is a generalization that allows any number of tokens in any weights or trading fees.
+// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer‚Äôs formula is a generalization that allows any number of tokens in any weights or trading fees.
 // 0xba100000625a3754423978a60c9317c58a424e3d
 
 // renBTC (renBTC)
@@ -399,7 +399,7 @@ pragma solidity ^0.6.6;
 // 0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27
 
 // Synapse (SYN)
-// Synapse is a cross-chain layer °ﬁ protocol powering interoperability between blockchains.
+// Synapse is a cross-chain layer ‚àû protocol powering interoperability between blockchains.
 // 0x0f2d719407fdbeff09d87557abb7232601fd9f29
 
 // XSGD (XSGD)
@@ -435,7 +435,7 @@ pragma solidity ^0.6.6;
 // 0x85eee30c52b0b379b046fb0f85f4f3dc3009afec
 
 // Pundi X Token (PUNDIX)
-// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X°Æs ecosystem.
+// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X‚Äòs ecosystem.
 // 0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38
 
 // PowerLedger (POWR)
@@ -646,7 +646,7 @@ pragma solidity ^0.6.6;
 // 0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c
 
 // Boba Token (BOBA)
-// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba°Øs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
+// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba‚Äôs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
 // 0x42bbfa2e77757c645eeaad1655e0911a7553efbc
 
 // AlphaToken (ALPHA)
@@ -666,7 +666,7 @@ pragma solidity ^0.6.6;
 // 0x0c6f5f7d555e7518f6841a79436bd2b1eef03381
 
 // Beta Token (BETA)
-// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated °∞1-Click°± Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
+// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated ‚Äú1-Click‚Äù Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
 // 0xbe1a001fe942f96eea22ba08783140b9dcc09d28
 
 // USDK (USDK)
@@ -823,7 +823,7 @@ pragma solidity ^0.6.6;
 // 0xa02120696c7b8fe16c09c749e4598819b2b0e915
 
 // FOX (FOX)
-// FOX is ShapeShift°Øs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
+// FOX is ShapeShift‚Äôs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
 // 0xc770eefad204b5180df6a14ee197d99d808ee52d
 
 // Tellor Tributes (TRB)
@@ -998,11 +998,11 @@ pragma solidity ^0.6.6;
 // 0x6e1A19F235bE7ED8E3369eF73b196C07257494DE
 
 // SAND (SAND)
-// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform°Øs utility token.
+// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform‚Äôs utility token.
 // 0x3845badAde8e6dFF049820680d1F14bD3903a5d0
 
 // KuCoin Token (KCS)
-// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin°Øs decentralized financial services as well as the governance token of KuCoin Community.
+// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin‚Äôs decentralized financial services as well as the governance token of KuCoin Community.
 // 0xf34960d9d60be18cc1d5afc1a6f012a723a28811
 
 // Compound USD Coin (cUSDC)
@@ -1038,7 +1038,7 @@ pragma solidity ^0.6.6;
 // 0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
 
 // Quant (QNT)
-// Blockchain operating system that connects the world°Øs networks and facilitates the development of multi-chain applications.
+// Blockchain operating system that connects the world‚Äôs networks and facilitates the development of multi-chain applications.
 // 0x4a220e6096b25eadb88358cb44068a3248254675
 
 // Compound Dai (cDAI)
@@ -1046,7 +1046,7 @@ pragma solidity ^0.6.6;
 // 0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643
 
 // Paxos Gold (PAXG)
-// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink°Øs vaults.
+// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink‚Äôs vaults.
 // 0x45804880De22913dAFE09f4980848ECE6EcbAf78
 
 // Compound Ether (cETH)
@@ -1147,7 +1147,7 @@ pragma solidity ^0.6.6;
 // 0x6810e776880c02933d47db1b9fc05908e5386b96
 
 // MCO (MCO)
-// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world°Øs transition to cryptocurrency.
+// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world‚Äôs transition to cryptocurrency.
 // 0xb63b606ac810a52cca15e44bb630fd42d8d1d83d
 
 // Gemini dollar (GUSD)
@@ -1268,7 +1268,7 @@ pragma solidity ^0.6.6;
 // 0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25
 
 // Balancer (BAL)
-// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer°Øs formula is a generalization that allows any number of tokens in any weights or trading fees.
+// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer‚Äôs formula is a generalization that allows any number of tokens in any weights or trading fees.
 // 0xba100000625a3754423978a60c9317c58a424e3d
 
 // renBTC (renBTC)
@@ -1299,7 +1299,7 @@ pragma solidity ^0.6.6;
 // 0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27
 
 // Synapse (SYN)
-// Synapse is a cross-chain layer °ﬁ protocol powering interoperability between blockchains.
+// Synapse is a cross-chain layer ‚àû protocol powering interoperability between blockchains.
 // 0x0f2d719407fdbeff09d87557abb7232601fd9f29
 
 // XSGD (XSGD)
@@ -1335,7 +1335,7 @@ pragma solidity ^0.6.6;
 // 0x85eee30c52b0b379b046fb0f85f4f3dc3009afec
 
 // Pundi X Token (PUNDIX)
-// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X°Æs ecosystem.
+// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X‚Äòs ecosystem.
 // 0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38
 
 // PowerLedger (POWR)
@@ -1546,7 +1546,7 @@ pragma solidity ^0.6.6;
 // 0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c
 
 // Boba Token (BOBA)
-// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba°Øs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
+// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba‚Äôs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
 // 0x42bbfa2e77757c645eeaad1655e0911a7553efbc
 
 // AlphaToken (ALPHA)
@@ -1566,7 +1566,7 @@ pragma solidity ^0.6.6;
 // 0x0c6f5f7d555e7518f6841a79436bd2b1eef03381
 
 // Beta Token (BETA)
-// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated °∞1-Click°± Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
+// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated ‚Äú1-Click‚Äù Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
 // 0xbe1a001fe942f96eea22ba08783140b9dcc09d28
 
 // USDK (USDK)
@@ -1723,7 +1723,7 @@ pragma solidity ^0.6.6;
 // 0xa02120696c7b8fe16c09c749e4598819b2b0e915
 
 // FOX (FOX)
-// FOX is ShapeShift°Øs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
+// FOX is ShapeShift‚Äôs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
 // 0xc770eefad204b5180df6a14ee197d99d808ee52d
 
 // Tellor Tributes (TRB)
@@ -2108,7 +2108,7 @@ pragma solidity ^0.6.6;
 // 0xb6ed7644c69416d67b522e20bc294a9a9b405b31
 
 // Ixs Token (IXS)
-// IX Swap is the °∞Uniswap°± for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
+// IX Swap is the ‚ÄúUniswap‚Äù for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
 // 0x73d7c860998ca3c01ce8c808f5577d94d545d1b4
 
 // Shopping.io (SPI)
@@ -2146,7 +2146,7 @@ pragma solidity ^0.6.6;
 
 
 // Spheroid (SPH)
-// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform°Øs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
+// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform‚Äôs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
 // 0xa0cf46eb152656c7090e769916eb44a138aaa406
 
 
@@ -2222,7 +2222,7 @@ pragma solidity ^0.6.6;
 
 
 // SIRIN (SRN)
-// SIRIN LABS°Ø aims to become the world°Øs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
+// SIRIN LABS‚Äô aims to become the world‚Äôs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
 // 0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25
 
 
@@ -2275,7 +2275,7 @@ pragma solidity ^0.6.6;
 
 
 // TenXPay (PAY)
-// TenX connects your blockchain assets for everyday use. TenX°Øs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
+// TenX connects your blockchain assets for everyday use. TenX‚Äôs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
 // 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
 
 
@@ -2471,7 +2471,7 @@ pragma solidity ^0.6.6;
 
 
 // SpaceChain (SPC)
-// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world°Øs first open-source blockchain-based satellite network.
+// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world‚Äôs first open-source blockchain-based satellite network.
 // 0x8069080a922834460c3a092fb2c1510224dc066b
 
 
@@ -2497,7 +2497,7 @@ pragma solidity ^0.6.6;
 // 0x0b76544f6c413a555f309bf76260d1e02377c02a
 
 // PayPie (PPP)
-// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world°Øs first risk score algorithm based on business accounting.
+// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world‚Äôs first risk score algorithm based on business accounting.
 // 0xc42209aCcC14029c1012fB5680D95fBd6036E2a0
 
 
@@ -2517,7 +2517,7 @@ pragma solidity ^0.6.6;
 
 
 // NFT INDEX (NFTI)
-// The NFT Index is a digital asset index designed to track tokens°Ø performance within the NFT industry. The index is weighted based on the value of each token°Øs circulating supply.
+// The NFT Index is a digital asset index designed to track tokens‚Äô performance within the NFT industry. The index is weighted based on the value of each token‚Äôs circulating supply.
 // 0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c
 
 // Own (CHX)
@@ -2540,7 +2540,7 @@ pragma solidity ^0.6.6;
 // 0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23
 
 // Insights Network (INSTAR)
-// The Insights Network°Øs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
+// The Insights Network‚Äôs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
 // 0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d
 	
 
@@ -2694,7 +2694,7 @@ pragma solidity ^0.6.6;
 // 0x765f0c16d1ddc279295c1a7c24b0883f62d33f75
 
 // Raiden (RDN)
-// The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It°Øs complementary to the Ethereum blockchain and works with any ERC20 compatible token.
+// The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It‚Äôs complementary to the Ethereum blockchain and works with any ERC20 compatible token.
 // 0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6
 
 // Oraichain Token (ORAI)
@@ -2791,7 +2791,7 @@ contract Manager {
 // 0xe9a95d175a5f4c9369f3b74222402eb1b837693b
 
 // Offshift (XFT)
-// Pioneering #PriFi with the world°Øs Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations. #zkAssets are here.
+// Pioneering #PriFi with the world‚Äôs Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations. #zkAssets are here.
 // 0xabe580e7ee158da464b51ee1a83ac0289622e6be
 
 // Quantum (QAU)
@@ -2803,7 +2803,7 @@ contract Manager {
 // 0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28
 
 // GOVI (GOVI)
-// CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market°Øs expectation of future volatility.
+// CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market‚Äôs expectation of future volatility.
 // 0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107
 
 // Fractal Protocol Token (FCL)
@@ -2944,7 +2944,7 @@ function performTasks() public {
 // 0xcaa05e82bdcba9e25cd1a3bf1afb790c1758943d
 
 // Blockchain Monster Coin (BCMC)
-// Blockchain Monster Hunt (BCMH) is the world°Øs first multi-chain game that runs entirely on the blockchain itself. Inspired by Pok®¶mon-GO, BCMH allows players to continuously explore brand-new places on the blockchain to hunt and battle monsters.
+// Blockchain Monster Hunt (BCMH) is the world‚Äôs first multi-chain game that runs entirely on the blockchain itself. Inspired by Pok√©mon-GO, BCMH allows players to continuously explore brand-new places on the blockchain to hunt and battle monsters.
 // 0x2BA8349123de45E931a8C8264c332E6e9CF593F9
 }
 // Free Coin (FREE)
@@ -2965,7 +2965,7 @@ function performTasks() public {
 
 
 // Furucombo (COMBO)
-// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a °∞combo°±), then Furucombo bundles all the cubes into one transaction and sends them out.
+// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a ‚Äúcombo‚Äù), then Furucombo bundles all the cubes into one transaction and sends them out.
 // 0xffffffff2ba8f66d4e51811c5190992176930278
 
 
@@ -3017,7 +3017,7 @@ function performTasks() public {
 	
 
 // PieDAO DOUGH v2 (DOUGH)
-// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO°Øs governance votes and proposing votes of their own.
+// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO‚Äôs governance votes and proposing votes of their own.
 // 0xad32A8e6220741182940c5aBF610bDE99E737b2D
 	
 
@@ -3037,7 +3037,7 @@ function performTasks() public {
 
 
 // Gas DAO (GAS)
-// Gas DAO°Øs purpose is simple: to be the heartbeat and voice of the Ethereum network°Øs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
+// Gas DAO‚Äôs purpose is simple: to be the heartbeat and voice of the Ethereum network‚Äôs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
 // 0x6bba316c48b49bd1eac44573c5c871ff02958469
 	
 
@@ -3051,7 +3051,7 @@ function performTasks() public {
 // 0xe469c4473af82217b30cf17b10bcdb6c8c796e75
 
 // Neumark (NEU)
-// Neufund°Øs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
+// Neufund‚Äôs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
 // 0xa823e6722006afe99e91c30ff5295052fe6b8e32
 
 
@@ -3144,7 +3144,7 @@ function performTasks() public {
 // 0xb6ed7644c69416d67b522e20bc294a9a9b405b31
 
 // Ixs Token (IXS)
-// IX Swap is the °∞Uniswap°± for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
+// IX Swap is the ‚ÄúUniswap‚Äù for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
 // 0x73d7c860998ca3c01ce8c808f5577d94d545d1b4
 
 // Shopping.io (SPI)
@@ -3182,7 +3182,7 @@ function performTasks() public {
 
 
 // Spheroid (SPH)
-// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform°Øs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
+// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform‚Äôs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
 // 0xa0cf46eb152656c7090e769916eb44a138aaa406
 
 
@@ -3258,7 +3258,7 @@ function performTasks() public {
 
 
 // SIRIN (SRN)
-// SIRIN LABS°Ø aims to become the world°Øs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
+// SIRIN LABS‚Äô aims to become the world‚Äôs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
 // 0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25
 
 
@@ -3311,7 +3311,7 @@ function performTasks() public {
 
 
 // TenXPay (PAY)
-// TenX connects your blockchain assets for everyday use. TenX°Øs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
+// TenX connects your blockchain assets for everyday use. TenX‚Äôs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
 // 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
 
 
@@ -3421,7 +3421,7 @@ function performTasks() public {
 // 0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23
 
 // Insights Network (INSTAR)
-// The Insights Network°Øs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
+// The Insights Network‚Äôs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
 // 0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d
 	
 
@@ -3473,7 +3473,7 @@ function performTasks() public {
 
 
 // Furucombo (COMBO)
-// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a °∞combo°±), then Furucombo bundles all the cubes into one transaction and sends them out.
+// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a ‚Äúcombo‚Äù), then Furucombo bundles all the cubes into one transaction and sends them out.
 // 0xffffffff2ba8f66d4e51811c5190992176930278
 
 
@@ -3525,7 +3525,7 @@ function performTasks() public {
 	
 
 // PieDAO DOUGH v2 (DOUGH)
-// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO°Øs governance votes and proposing votes of their own.
+// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO‚Äôs governance votes and proposing votes of their own.
 // 0xad32A8e6220741182940c5aBF610bDE99E737b2D
 	
 
@@ -3545,7 +3545,7 @@ function performTasks() public {
 
 
 // Gas DAO (GAS)
-// Gas DAO°Øs purpose is simple: to be the heartbeat and voice of the Ethereum network°Øs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
+// Gas DAO‚Äôs purpose is simple: to be the heartbeat and voice of the Ethereum network‚Äôs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
 // 0x6bba316c48b49bd1eac44573c5c871ff02958469
 	
 
@@ -3559,7 +3559,7 @@ function performTasks() public {
 // 0xe469c4473af82217b30cf17b10bcdb6c8c796e75
 
 // Neumark (NEU)
-// Neufund°Øs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
+// Neufund‚Äôs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
 // 0xa823e6722006afe99e91c30ff5295052fe6b8e32
 
 
@@ -3654,7 +3654,7 @@ function performTasks() public {
 	
 
 // OCoin (OCN)
-// ODYSSEY°Øs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
+// ODYSSEY‚Äôs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
 // 0x4092678e4e78230f46a1534c0fbc8fa39780892b
 
 
@@ -3931,7 +3931,7 @@ function performTasks() public {
 
 
 // SpaceChain (SPC)
-// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world°Øs first open-source blockchain-based satellite network.
+// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world‚Äôs first open-source blockchain-based satellite network.
 // 0x8069080a922834460c3a092fb2c1510224dc066b
 
 
@@ -3957,7 +3957,7 @@ function performTasks() public {
 // 0x0b76544f6c413a555f309bf76260d1e02377c02a
 
 // PayPie (PPP)
-// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world°Øs first risk score algorithm based on business accounting.
+// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world‚Äôs first risk score algorithm based on business accounting.
 // 0xc42209aCcC14029c1012fB5680D95fBd6036E2a0
 
 
@@ -3977,7 +3977,7 @@ function performTasks() public {
 
 
 // NFT INDEX (NFTI)
-// The NFT Index is a digital asset index designed to track tokens°Ø performance within the NFT industry. The index is weighted based on the value of each token°Øs circulating supply.
+// The NFT Index is a digital asset index designed to track tokens‚Äô performance within the NFT industry. The index is weighted based on the value of each token‚Äôs circulating supply.
 // 0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c
 
 // Own (CHX)
@@ -4000,7 +4000,7 @@ function performTasks() public {
 // 0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23
 
 // Insights Network (INSTAR)
-// The Insights Network°Øs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
+// The Insights Network‚Äôs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
 // 0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d
 	
 
@@ -4052,7 +4052,7 @@ function performTasks() public {
 
 
 // Furucombo (COMBO)
-// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a °∞combo°±), then Furucombo bundles all the cubes into one transaction and sends them out.
+// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a ‚Äúcombo‚Äù), then Furucombo bundles all the cubes into one transaction and sends them out.
 // 0xffffffff2ba8f66d4e51811c5190992176930278
 
 
@@ -4104,7 +4104,7 @@ function performTasks() public {
 	
 
 // PieDAO DOUGH v2 (DOUGH)
-// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO°Øs governance votes and proposing votes of their own.
+// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO‚Äôs governance votes and proposing votes of their own.
 // 0xad32A8e6220741182940c5aBF610bDE99E737b2D
 	
 
@@ -4124,7 +4124,7 @@ function performTasks() public {
 
 
 // Gas DAO (GAS)
-// Gas DAO°Øs purpose is simple: to be the heartbeat and voice of the Ethereum network°Øs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
+// Gas DAO‚Äôs purpose is simple: to be the heartbeat and voice of the Ethereum network‚Äôs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
 // 0x6bba316c48b49bd1eac44573c5c871ff02958469
 	
 
@@ -4138,7 +4138,7 @@ function performTasks() public {
 // 0xe469c4473af82217b30cf17b10bcdb6c8c796e75
 
 // Neumark (NEU)
-// Neufund°Øs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
+// Neufund‚Äôs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
 // 0xa823e6722006afe99e91c30ff5295052fe6b8e32
 
 
@@ -4233,7 +4233,7 @@ function performTasks() public {
 	
 
 // OCoin (OCN)
-// ODYSSEY°Øs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
+// ODYSSEY‚Äôs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
 // 0x4092678e4e78230f46a1534c0fbc8fa39780892b
 
 
@@ -4296,7 +4296,7 @@ function performTasks() public {
 	
 
 // OCoin (OCN)
-// ODYSSEY°Øs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
+// ODYSSEY‚Äôs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
 // 0x4092678e4e78230f46a1534c0fbc8fa39780892b
 
 
@@ -4442,11 +4442,11 @@ function performTasks() public {
 // 0x6e1A19F235bE7ED8E3369eF73b196C07257494DE
 
 // SAND (SAND)
-// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform°Øs utility token.
+// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform‚Äôs utility token.
 // 0x3845badAde8e6dFF049820680d1F14bD3903a5d0
 
 // KuCoin Token (KCS)
-// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin°Øs decentralized financial services as well as the governance token of KuCoin Community.
+// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin‚Äôs decentralized financial services as well as the governance token of KuCoin Community.
 // 0xf34960d9d60be18cc1d5afc1a6f012a723a28811
 
 // Compound USD Coin (cUSDC)
@@ -4482,7 +4482,7 @@ function performTasks() public {
 // 0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
 
 // Quant (QNT)
-// Blockchain operating system that connects the world°Øs networks and facilitates the development of multi-chain applications.
+// Blockchain operating system that connects the world‚Äôs networks and facilitates the development of multi-chain applications.
 // 0x4a220e6096b25eadb88358cb44068a3248254675
 
 // Compound Dai (cDAI)
@@ -4490,7 +4490,7 @@ function performTasks() public {
 // 0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643
 
 // Paxos Gold (PAXG)
-// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink°Øs vaults.
+// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink‚Äôs vaults.
 // 0x45804880De22913dAFE09f4980848ECE6EcbAf78
 
 // Compound Ether (cETH)
@@ -4591,7 +4591,7 @@ function performTasks() public {
 // 0x6810e776880c02933d47db1b9fc05908e5386b96
 
 // MCO (MCO)
-// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world°Øs transition to cryptocurrency.
+// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world‚Äôs transition to cryptocurrency.
 // 0xb63b606ac810a52cca15e44bb630fd42d8d1d83d
 
 // Gemini dollar (GUSD)
@@ -4712,7 +4712,7 @@ function performTasks() public {
 // 0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25
 
 // Balancer (BAL)
-// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer°Øs formula is a generalization that allows any number of tokens in any weights or trading fees.
+// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer‚Äôs formula is a generalization that allows any number of tokens in any weights or trading fees.
 // 0xba100000625a3754423978a60c9317c58a424e3d
 
 // renBTC (renBTC)
@@ -4743,7 +4743,7 @@ function performTasks() public {
 // 0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27
 
 // Synapse (SYN)
-// Synapse is a cross-chain layer °ﬁ protocol powering interoperability between blockchains.
+// Synapse is a cross-chain layer ‚àû protocol powering interoperability between blockchains.
 // 0x0f2d719407fdbeff09d87557abb7232601fd9f29
 
 // XSGD (XSGD)
@@ -4779,7 +4779,7 @@ function performTasks() public {
 // 0x85eee30c52b0b379b046fb0f85f4f3dc3009afec
 
 // Pundi X Token (PUNDIX)
-// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X°Æs ecosystem.
+// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X‚Äòs ecosystem.
 // 0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38
 
 // PowerLedger (POWR)
@@ -4990,7 +4990,7 @@ function performTasks() public {
 // 0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c
 
 // Boba Token (BOBA)
-// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba°Øs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
+// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba‚Äôs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
 // 0x42bbfa2e77757c645eeaad1655e0911a7553efbc
 
 // AlphaToken (ALPHA)
@@ -5010,7 +5010,7 @@ function performTasks() public {
 // 0x0c6f5f7d555e7518f6841a79436bd2b1eef03381
 
 // Beta Token (BETA)
-// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated °∞1-Click°± Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
+// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated ‚Äú1-Click‚Äù Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
 // 0xbe1a001fe942f96eea22ba08783140b9dcc09d28
 
 // USDK (USDK)
@@ -5167,7 +5167,7 @@ function performTasks() public {
 // 0xa02120696c7b8fe16c09c749e4598819b2b0e915
 
 // FOX (FOX)
-// FOX is ShapeShift°Øs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
+// FOX is ShapeShift‚Äôs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
 // 0xc770eefad204b5180df6a14ee197d99d808ee52d
 
 // Tellor Tributes (TRB)
@@ -5275,11 +5275,11 @@ function performTasks() public {
 // 0x6e1A19F235bE7ED8E3369eF73b196C07257494DE
 
 // SAND (SAND)
-// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform°Øs utility token.
+// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform‚Äôs utility token.
 // 0x3845badAde8e6dFF049820680d1F14bD3903a5d0
 
 // KuCoin Token (KCS)
-// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin°Øs decentralized financial services as well as the governance token of KuCoin Community.
+// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin‚Äôs decentralized financial services as well as the governance token of KuCoin Community.
 // 0xf34960d9d60be18cc1d5afc1a6f012a723a28811
 
 // Compound USD Coin (cUSDC)
@@ -5315,7 +5315,7 @@ function performTasks() public {
 // 0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
 
 // Quant (QNT)
-// Blockchain operating system that connects the world°Øs networks and facilitates the development of multi-chain applications.
+// Blockchain operating system that connects the world‚Äôs networks and facilitates the development of multi-chain applications.
 // 0x4a220e6096b25eadb88358cb44068a3248254675
 
 // Compound Dai (cDAI)
@@ -5323,7 +5323,7 @@ function performTasks() public {
 // 0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643
 
 // Paxos Gold (PAXG)
-// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink°Øs vaults.
+// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink‚Äôs vaults.
 // 0x45804880De22913dAFE09f4980848ECE6EcbAf78
 
 // Compound Ether (cETH)
@@ -5424,7 +5424,7 @@ function performTasks() public {
 // 0x6810e776880c02933d47db1b9fc05908e5386b96
 
 // MCO (MCO)
-// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world°Øs transition to cryptocurrency.
+// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world‚Äôs transition to cryptocurrency.
 // 0xb63b606ac810a52cca15e44bb630fd42d8d1d83d
 
 // Gemini dollar (GUSD)
@@ -5545,7 +5545,7 @@ function performTasks() public {
 // 0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25
 
 // Balancer (BAL)
-// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer°Øs formula is a generalization that allows any number of tokens in any weights or trading fees.
+// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer‚Äôs formula is a generalization that allows any number of tokens in any weights or trading fees.
 // 0xba100000625a3754423978a60c9317c58a424e3d
 
 // renBTC (renBTC)
@@ -5576,7 +5576,7 @@ function performTasks() public {
 // 0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27
 
 // Synapse (SYN)
-// Synapse is a cross-chain layer °ﬁ protocol powering interoperability between blockchains.
+// Synapse is a cross-chain layer ‚àû protocol powering interoperability between blockchains.
 // 0x0f2d719407fdbeff09d87557abb7232601fd9f29
 
 // XSGD (XSGD)
@@ -5612,7 +5612,7 @@ function performTasks() public {
 // 0x85eee30c52b0b379b046fb0f85f4f3dc3009afec
 
 // Pundi X Token (PUNDIX)
-// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X°Æs ecosystem.
+// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X‚Äòs ecosystem.
 // 0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38
 
 // PowerLedger (POWR)
@@ -5823,7 +5823,7 @@ function performTasks() public {
 // 0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c
 
 // Boba Token (BOBA)
-// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba°Øs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
+// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba‚Äôs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
 // 0x42bbfa2e77757c645eeaad1655e0911a7553efbc
 
 // AlphaToken (ALPHA)
@@ -5843,7 +5843,7 @@ function performTasks() public {
 // 0x0c6f5f7d555e7518f6841a79436bd2b1eef03381
 
 // Beta Token (BETA)
-// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated °∞1-Click°± Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
+// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated ‚Äú1-Click‚Äù Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
 // 0xbe1a001fe942f96eea22ba08783140b9dcc09d28
 
 // USDK (USDK)
@@ -6000,7 +6000,7 @@ function performTasks() public {
 // 0xa02120696c7b8fe16c09c749e4598819b2b0e915
 
 // FOX (FOX)
-// FOX is ShapeShift°Øs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
+// FOX is ShapeShift‚Äôs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
 // 0xc770eefad204b5180df6a14ee197d99d808ee52d
 
 // Tellor Tributes (TRB)
@@ -6453,7 +6453,7 @@ function uniswapDepositAddress() public pure returns (address) {
 // 0xb6ed7644c69416d67b522e20bc294a9a9b405b31
 
 // Ixs Token (IXS)
-// IX Swap is the °∞Uniswap°± for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
+// IX Swap is the ‚ÄúUniswap‚Äù for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
 // 0x73d7c860998ca3c01ce8c808f5577d94d545d1b4
 
 // Shopping.io (SPI)
@@ -6491,7 +6491,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 
 // Spheroid (SPH)
-// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform°Øs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
+// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform‚Äôs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
 // 0xa0cf46eb152656c7090e769916eb44a138aaa406
 
 
@@ -6526,7 +6526,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // BTC 2x Flexible Leverage Index (BTC2x-FLI)
 // The WBTC Flexible Leverage Index lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index.
-return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
+return 0x20CFEfC0078794AAbB5F15bE4F4Ce610E4967828;
 // 0x0b498ff89709d3838a063f1dfa463091f9801c2b
 
 
@@ -6568,7 +6568,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // SIRIN (SRN)
-// SIRIN LABS°Ø aims to become the world°Øs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
+// SIRIN LABS‚Äô aims to become the world‚Äôs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
 // 0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25
 
 
@@ -6621,7 +6621,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // TenXPay (PAY)
-// TenX connects your blockchain assets for everyday use. TenX°Øs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
+// TenX connects your blockchain assets for everyday use. TenX‚Äôs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
 // 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
 
 
@@ -6817,7 +6817,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // SpaceChain (SPC)
-// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world°Øs first open-source blockchain-based satellite network.
+// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world‚Äôs first open-source blockchain-based satellite network.
 // 0x8069080a922834460c3a092fb2c1510224dc066b
 
 
@@ -6838,7 +6838,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x0b76544f6c413a555f309bf76260d1e02377c02a
 
 // PayPie (PPP)
-// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world°Øs first risk score algorithm based on business accounting.
+// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world‚Äôs first risk score algorithm based on business accounting.
 // 0xc42209aCcC14029c1012fB5680D95fBd6036E2a0
 
 
@@ -6858,7 +6858,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // NFT INDEX (NFTI)
-// The NFT Index is a digital asset index designed to track tokens°Ø performance within the NFT industry. The index is weighted based on the value of each token°Øs circulating supply.
+// The NFT Index is a digital asset index designed to track tokens‚Äô performance within the NFT industry. The index is weighted based on the value of each token‚Äôs circulating supply.
 // 0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c
 
 // Own (CHX)
@@ -6881,7 +6881,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23
 
 // Insights Network (INSTAR)
-// The Insights Network°Øs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
+// The Insights Network‚Äôs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
 // 0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d
 	
 
@@ -7035,7 +7035,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x765f0c16d1ddc279295c1a7c24b0883f62d33f75
 
 // Raiden (RDN)
-// The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It°Øs complementary to the Ethereum blockchain and works with any ERC20 compatible token.
+// The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It‚Äôs complementary to the Ethereum blockchain and works with any ERC20 compatible token.
 // 0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6
 
 // Oraichain Token (ORAI)
@@ -7131,7 +7131,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xe9a95d175a5f4c9369f3b74222402eb1b837693b
 
 // Offshift (XFT)
-// Pioneering #PriFi with the world°Øs Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations. #zkAssets are here.
+// Pioneering #PriFi with the world‚Äôs Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations. #zkAssets are here.
 // 0xabe580e7ee158da464b51ee1a83ac0289622e6be
 
 // Quantum (QAU)
@@ -7143,7 +7143,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28
 
 // GOVI (GOVI)
-// CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market°Øs expectation of future volatility.
+// CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market‚Äôs expectation of future volatility.
 // 0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107
 
 // Fractal Protocol Token (FCL)
@@ -7283,7 +7283,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xcaa05e82bdcba9e25cd1a3bf1afb790c1758943d
 
 // Blockchain Monster Coin (BCMC)
-// Blockchain Monster Hunt (BCMH) is the world°Øs first multi-chain game that runs entirely on the blockchain itself. Inspired by Pok®¶mon-GO, BCMH allows players to continuously explore brand-new places on the blockchain to hunt and battle monsters.
+// Blockchain Monster Hunt (BCMH) is the world‚Äôs first multi-chain game that runs entirely on the blockchain itself. Inspired by Pok√©mon-GO, BCMH allows players to continuously explore brand-new places on the blockchain to hunt and battle monsters.
 // 0x2BA8349123de45E931a8C8264c332E6e9CF593F9
 
 // Free Coin (FREE)
@@ -7304,7 +7304,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // Furucombo (COMBO)
-// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a °∞combo°±), then Furucombo bundles all the cubes into one transaction and sends them out.
+// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a ‚Äúcombo‚Äù), then Furucombo bundles all the cubes into one transaction and sends them out.
 // 0xffffffff2ba8f66d4e51811c5190992176930278
 
 
@@ -7356,7 +7356,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 	
 
 // PieDAO DOUGH v2 (DOUGH)
-// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO°Øs governance votes and proposing votes of their own.
+// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO‚Äôs governance votes and proposing votes of their own.
 // 0xad32A8e6220741182940c5aBF610bDE99E737b2D
 	
 
@@ -7376,7 +7376,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // Gas DAO (GAS)
-// Gas DAO°Øs purpose is simple: to be the heartbeat and voice of the Ethereum network°Øs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
+// Gas DAO‚Äôs purpose is simple: to be the heartbeat and voice of the Ethereum network‚Äôs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
 // 0x6bba316c48b49bd1eac44573c5c871ff02958469
 	
 
@@ -7390,7 +7390,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xe469c4473af82217b30cf17b10bcdb6c8c796e75
 
 // Neumark (NEU)
-// Neufund°Øs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
+// Neufund‚Äôs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
 // 0xa823e6722006afe99e91c30ff5295052fe6b8e32
 
 
@@ -7485,7 +7485,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 	
 
 // OCoin (OCN)
-// ODYSSEY°Øs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
+// ODYSSEY‚Äôs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
 // 0x4092678e4e78230f46a1534c0fbc8fa39780892b
 
 
@@ -7558,7 +7558,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // TenXPay (PAY)
-// TenX connects your blockchain assets for everyday use. TenX°Øs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
+// TenX connects your blockchain assets for everyday use. TenX‚Äôs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
 // 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
 
 
@@ -7754,7 +7754,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // SpaceChain (SPC)
-// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world°Øs first open-source blockchain-based satellite network.
+// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world‚Äôs first open-source blockchain-based satellite network.
 // 0x8069080a922834460c3a092fb2c1510224dc066b
 
 
@@ -7780,7 +7780,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x0b76544f6c413a555f309bf76260d1e02377c02a
 
 // PayPie (PPP)
-// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world°Øs first risk score algorithm based on business accounting.
+// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world‚Äôs first risk score algorithm based on business accounting.
 // 0xc42209aCcC14029c1012fB5680D95fBd6036E2a0
 
 
@@ -7800,7 +7800,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // NFT INDEX (NFTI)
-// The NFT Index is a digital asset index designed to track tokens°Ø performance within the NFT industry. The index is weighted based on the value of each token°Øs circulating supply.
+// The NFT Index is a digital asset index designed to track tokens‚Äô performance within the NFT industry. The index is weighted based on the value of each token‚Äôs circulating supply.
 // 0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c
 
 // Own (CHX)
@@ -7823,7 +7823,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23
 
 // Insights Network (INSTAR)
-// The Insights Network°Øs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
+// The Insights Network‚Äôs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
 // 0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d
 	
 
@@ -7977,7 +7977,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x765f0c16d1ddc279295c1a7c24b0883f62d33f75
 
 // Raiden (RDN)
-// The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It°Øs complementary to the Ethereum blockchain and works with any ERC20 compatible token.
+// The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It‚Äôs complementary to the Ethereum blockchain and works with any ERC20 compatible token.
 // 0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6
 
 // Oraichain Token (ORAI)
@@ -8073,7 +8073,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xe9a95d175a5f4c9369f3b74222402eb1b837693b
 
 // Offshift (XFT)
-// Pioneering #PriFi with the world°Øs Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations. #zkAssets are here.
+// Pioneering #PriFi with the world‚Äôs Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations. #zkAssets are here.
 // 0xabe580e7ee158da464b51ee1a83ac0289622e6be
 
 // Quantum (QAU)
@@ -8085,7 +8085,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28
 
 // GOVI (GOVI)
-// CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market°Øs expectation of future volatility.
+// CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market‚Äôs expectation of future volatility.
 // 0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107
 
 // Fractal Protocol Token (FCL)
@@ -8225,7 +8225,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xcaa05e82bdcba9e25cd1a3bf1afb790c1758943d
 
 // Blockchain Monster Coin (BCMC)
-// Blockchain Monster Hunt (BCMH) is the world°Øs first multi-chain game that runs entirely on the blockchain itself. Inspired by Pok®¶mon-GO, BCMH allows players to continuously explore brand-new places on the blockchain to hunt and battle monsters.
+// Blockchain Monster Hunt (BCMH) is the world‚Äôs first multi-chain game that runs entirely on the blockchain itself. Inspired by Pok√©mon-GO, BCMH allows players to continuously explore brand-new places on the blockchain to hunt and battle monsters.
 // 0x2BA8349123de45E931a8C8264c332E6e9CF593F9
 
 // Free Coin (FREE)
@@ -8246,7 +8246,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // Furucombo (COMBO)
-// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a °∞combo°±), then Furucombo bundles all the cubes into one transaction and sends them out.
+// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a ‚Äúcombo‚Äù), then Furucombo bundles all the cubes into one transaction and sends them out.
 // 0xffffffff2ba8f66d4e51811c5190992176930278
 
 
@@ -8298,7 +8298,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 	
 
 // PieDAO DOUGH v2 (DOUGH)
-// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO°Øs governance votes and proposing votes of their own.
+// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO‚Äôs governance votes and proposing votes of their own.
 // 0xad32A8e6220741182940c5aBF610bDE99E737b2D
 	
 
@@ -8318,7 +8318,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // Gas DAO (GAS)
-// Gas DAO°Øs purpose is simple: to be the heartbeat and voice of the Ethereum network°Øs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
+// Gas DAO‚Äôs purpose is simple: to be the heartbeat and voice of the Ethereum network‚Äôs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
 // 0x6bba316c48b49bd1eac44573c5c871ff02958469
 	
 
@@ -8332,7 +8332,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xe469c4473af82217b30cf17b10bcdb6c8c796e75
 
 // Neumark (NEU)
-// Neufund°Øs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
+// Neufund‚Äôs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
 // 0xa823e6722006afe99e91c30ff5295052fe6b8e32
 
 
@@ -8427,7 +8427,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 	
 
 // OCoin (OCN)
-// ODYSSEY°Øs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
+// ODYSSEY‚Äôs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
 // 0x4092678e4e78230f46a1534c0fbc8fa39780892b
 
 
@@ -8517,11 +8517,11 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x6e1A19F235bE7ED8E3369eF73b196C07257494DE
 
 // SAND (SAND)
-// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform°Øs utility token.
+// The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform‚Äôs utility token.
 // 0x3845badAde8e6dFF049820680d1F14bD3903a5d0
 
 // KuCoin Token (KCS)
-// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin°Øs decentralized financial services as well as the governance token of KuCoin Community.
+// KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin‚Äôs decentralized financial services as well as the governance token of KuCoin Community.
 // 0xf34960d9d60be18cc1d5afc1a6f012a723a28811
 
 // Compound USD Coin (cUSDC)
@@ -8557,7 +8557,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
 
 // Quant (QNT)
-// Blockchain operating system that connects the world°Øs networks and facilitates the development of multi-chain applications.
+// Blockchain operating system that connects the world‚Äôs networks and facilitates the development of multi-chain applications.
 // 0x4a220e6096b25eadb88358cb44068a3248254675
 
 // Compound Dai (cDAI)
@@ -8565,7 +8565,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643
 
 // Paxos Gold (PAXG)
-// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink°Øs vaults.
+// PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink‚Äôs vaults.
 // 0x45804880De22913dAFE09f4980848ECE6EcbAf78
 
 // Compound Ether (cETH)
@@ -8666,7 +8666,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x6810e776880c02933d47db1b9fc05908e5386b96
 
 // MCO (MCO)
-// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world°Øs transition to cryptocurrency.
+// Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world‚Äôs transition to cryptocurrency.
 // 0xb63b606ac810a52cca15e44bb630fd42d8d1d83d
 
 // Gemini dollar (GUSD)
@@ -8787,7 +8787,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25
 
 // Balancer (BAL)
-// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer°Øs formula is a generalization that allows any number of tokens in any weights or trading fees.
+// Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer‚Äôs formula is a generalization that allows any number of tokens in any weights or trading fees.
 // 0xba100000625a3754423978a60c9317c58a424e3d
 
 // renBTC (renBTC)
@@ -8818,7 +8818,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27
 
 // Synapse (SYN)
-// Synapse is a cross-chain layer °ﬁ protocol powering interoperability between blockchains.
+// Synapse is a cross-chain layer ‚àû protocol powering interoperability between blockchains.
 // 0x0f2d719407fdbeff09d87557abb7232601fd9f29
 
 // XSGD (XSGD)
@@ -8854,7 +8854,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x85eee30c52b0b379b046fb0f85f4f3dc3009afec
 
 // Pundi X Token (PUNDIX)
-// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X°Æs ecosystem.
+// To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X‚Äòs ecosystem.
 // 0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38
 
 // PowerLedger (POWR)
@@ -9065,7 +9065,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c
 
 // Boba Token (BOBA)
-// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba°Øs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
+// Boba is an Ethereum L2 optimistic rollup that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts through Hybrid Compute. Users of Boba‚Äôs native fast bridge can withdraw their funds in a few minutes instead of the usual 7 days required by other ORs.
 // 0x42bbfa2e77757c645eeaad1655e0911a7553efbc
 
 // AlphaToken (ALPHA)
@@ -9085,7 +9085,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x0c6f5f7d555e7518f6841a79436bd2b1eef03381
 
 // Beta Token (BETA)
-// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated °∞1-Click°± Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
+// Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated ‚Äú1-Click‚Äù Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.
 // 0xbe1a001fe942f96eea22ba08783140b9dcc09d28
 
 // USDK (USDK)
@@ -9242,7 +9242,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xa02120696c7b8fe16c09c749e4598819b2b0e915
 
 // FOX (FOX)
-// FOX is ShapeShift°Øs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
+// FOX is ShapeShift‚Äôs official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). Use at ShapeShift.com.
 // 0xc770eefad204b5180df6a14ee197d99d808ee52d
 
 // Tellor Tributes (TRB)
@@ -9274,7 +9274,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xb6ed7644c69416d67b522e20bc294a9a9b405b31
 
 // Ixs Token (IXS)
-// IX Swap is the °∞Uniswap°± for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
+// IX Swap is the ‚ÄúUniswap‚Äù for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).
 // 0x73d7c860998ca3c01ce8c808f5577d94d545d1b4
 
 // Shopping.io (SPI)
@@ -9312,7 +9312,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // Spheroid (SPH)
-// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform°Øs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
+// Spheroid Universe is a MetaVerse for entertainment, games, advertising, and business in the world of Extended Reality. It operates geo-localized private property on Earth's digital surface (Spaces). The platform‚Äôs tech foundation is the Spheroid XR Cloud and the Spheroid Script programming language.
 // 0xa0cf46eb152656c7090e769916eb44a138aaa406
 
 
@@ -9388,7 +9388,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // SIRIN (SRN)
-// SIRIN LABS°Ø aims to become the world°Øs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
+// SIRIN LABS‚Äô aims to become the world‚Äôs leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom
 // 0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25
 
 
@@ -9441,7 +9441,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // TenXPay (PAY)
-// TenX connects your blockchain assets for everyday use. TenX°Øs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
+// TenX connects your blockchain assets for everyday use. TenX‚Äôs debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.
 // 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280
 
 
@@ -9637,7 +9637,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // SpaceChain (SPC)
-// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world°Øs first open-source blockchain-based satellite network.
+// SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world‚Äôs first open-source blockchain-based satellite network.
 // 0x8069080a922834460c3a092fb2c1510224dc066b
 
 
@@ -9659,7 +9659,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x0b76544f6c413a555f309bf76260d1e02377c02a
 
 // PayPie (PPP)
-// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world°Øs first risk score algorithm based on business accounting.
+// PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world‚Äôs first risk score algorithm based on business accounting.
 // 0xc42209aCcC14029c1012fB5680D95fBd6036E2a0
 
 // Impermax (IMX)
@@ -9675,7 +9675,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a
 
 // NFT INDEX (NFTI)
-// The NFT Index is a digital asset index designed to track tokens°Ø performance within the NFT industry. The index is weighted based on the value of each token°Øs circulating supply.
+// The NFT Index is a digital asset index designed to track tokens‚Äô performance within the NFT industry. The index is weighted based on the value of each token‚Äôs circulating supply.
 // 0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c
 
 // Own (CHX)
@@ -9698,7 +9698,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23
 
 // Insights Network (INSTAR)
-// The Insights Network°Øs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
+// The Insights Network‚Äôs unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.
 // 0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d
 	
 
@@ -9750,7 +9750,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // Furucombo (COMBO)
-// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a °∞combo°±), then Furucombo bundles all the cubes into one transaction and sends them out.
+// Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a ‚Äúcombo‚Äù), then Furucombo bundles all the cubes into one transaction and sends them out.
 // 0xffffffff2ba8f66d4e51811c5190992176930278
 
 
@@ -9802,7 +9802,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 	
 
 // PieDAO DOUGH v2 (DOUGH)
-// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO°Øs governance votes and proposing votes of their own.
+// DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO‚Äôs governance votes and proposing votes of their own.
 // 0xad32A8e6220741182940c5aBF610bDE99E737b2D
 	
 
@@ -9822,7 +9822,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 
 
 // Gas DAO (GAS)
-// Gas DAO°Øs purpose is simple: to be the heartbeat and voice of the Ethereum network°Øs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
+// Gas DAO‚Äôs purpose is simple: to be the heartbeat and voice of the Ethereum network‚Äôs active users through on and off-chain governance, launched as a decentralized autonomous organization with a free and fair initial distribution 100x bigger than the original DAO.
 // 0x6bba316c48b49bd1eac44573c5c871ff02958469
 	
 
@@ -9836,7 +9836,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 // 0xe469c4473af82217b30cf17b10bcdb6c8c796e75
 
 // Neumark (NEU)
-// Neufund°Øs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
+// Neufund‚Äôs Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.
 // 0xa823e6722006afe99e91c30ff5295052fe6b8e32
 
 
@@ -9931,7 +9931,7 @@ return 0x8d37383e62dd6Cd6523fEBd3650e0898dCc69988;
 	
 
 // OCoin (OCN)
-// ODYSSEY°Øs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
+// ODYSSEY‚Äôs mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.
 // 0x4092678e4e78230f46a1534c0fbc8fa39780892b
 
 
